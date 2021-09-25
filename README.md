@@ -1,2 +1,2 @@
 # gamershield
-library for ruilong maker gamershield
+a Javascript library for ruilong maker gamershield
